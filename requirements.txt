@@ -1,7 +1,6 @@
 pillow==10.3.0
 chardet==5.2.0
 matplotlib==3.9.0
-mysql-connector-python==9.0.0
 numpy==1.26.4
 pandas==2.2.2
 plotly==5.22.0
@@ -11,3 +10,4 @@ streamlit_book==0.7.5
 streamlit_folium==0.21.0
 streamlit-option-menu==0.3.13
 sympy==1.13.1
+seaborn==0.13.2
